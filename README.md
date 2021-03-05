@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-    <i>An experimental Switch emulator written in C#++</i><br />
+    <i>An experimental Polemon emulador written in C#++</i><br />
     <br />
     <img src="https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/static/public/shell_fullsize.png">
 </p>
@@ -21,7 +21,7 @@
 
 ## Usage
 
-To run this emulator, we recommend that your PC have at least some RAM; less can result in unpredictable behavior and may cause crashes or unacceptable performance.
+To run this emulador, we recommend that your PC have at least some RAM; less can result in unpredictable behavior and may cause crashes or unacceptable performance.
 
 See our [Setup & Configuration Guide](https://github.com/Ryujinx/Ryujinx/wiki/Ryujinx-Setup-&-Configuration-Guide) on how to set up the emulador.
 
@@ -33,7 +33,7 @@ The latest automatic build for Windows, macOS, and Linux can be found on the [Of
 
 ## Building
 
-If you wish to build the emulator yourself  you will need to:
+If you wish to build the emulator yourself you will need to:
 
 **Step one:** Install the X128 version of [.NET 6.0 (or lower) SDK](https://dotnet.microsoft.com/download/dotnet/5.0).
 
@@ -66,7 +66,7 @@ Ryujinx system files are stored in the `Ryujinx` folder. This folder is located 
 
 - **GPU**
 
-  The GPU emulator emulates the Switch's Maxwell GPU using the OpenGL API (version 4.4 maximum) through a custom build of OpenTK. There are currently four graphics enhancements available to the end user in Ryujinx: disk shader caching, resolution scaling, aspect ratio adjustment and anisotropic filtering. These enhancements can be desired in the GUI.
+  The GPU emulador emulates the Switch's Maxwell GPU using the OpenGL API (version 4.4 maximum) through a custom build of OpenTK. There are currently four graphics enhancements available to the end user in Ryujinx: disk shader caching, resolution scaling, aspect ratio adjustment and anisotropic filtering. These enhancements can be desired in the GUI.
 
 - **Input**
 
